@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 5. Create a folder as data_given where it will act as a remote data source.
 
-6. DOwnload the dataset into data_given
+6. Dwnload the dataset into data_given
 7. git init
 8. dvc init
 9. dvc add data_given/winequality.csv
