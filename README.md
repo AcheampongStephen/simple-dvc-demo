@@ -18,5 +18,7 @@ pip install -r requirements.txt
 7. git init
 8. dvc init
 9. dvc add data_given/winequality.csv
-10. git add .
+10. git add . && commit -m "first commit"
 11. git commit -m "first commit"
+12. git remote add origin https://github.com/AcheampongStephen/simple-dvc-demo.git
+13. git branch -M main
