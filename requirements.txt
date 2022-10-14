@@ -4,3 +4,4 @@ sklearn
 pyYAML
 pandas
 numpy
+urllib3
