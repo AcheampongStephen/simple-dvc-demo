@@ -89,7 +89,7 @@ def train_and_evaluate(config_path):
 
     joblib.dump(lr, model_path)
 
-
+    
 
 if __name__ == "__main__":
     args = argparse.ArgumentParser()

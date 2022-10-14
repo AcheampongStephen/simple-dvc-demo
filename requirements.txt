@@ -5,3 +5,5 @@ pyYAML
 pandas
 numpy
 urllib3
+pytest
+tox
