@@ -16,7 +16,7 @@ def test_generic():
 #It should be noted that if you want to apply a test to a specific fuction,
 #always make sure to add the the first key words to the function
 
-def test_something():
+def test_something(): #example test_something not just "something"
     a = 2
     b = 2
     assert True #Comparison to ensure if True/false
